@@ -18,7 +18,7 @@ Feel free to try different models in the "DataModel.py" code.
 
 ## Directory
 
-The main directory should contain the following files/folders (make sure to add the train and test folders when you are using this code):  
+The main directory should contain the following files/folders (make sure to add the train and test data when you are using this code):  
 -train  
 --train.csv  
 -test  
