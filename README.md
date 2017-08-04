@@ -46,13 +46,13 @@ The code is written in Python 3.5.2
 
 ### Additional Libraries/Depndencies
 
-I used pandas to prepare the data and sklearn for the learning part. The following libraries are required: 
--numpy
--pandas (for data manipulation)
--os
--sklearn (for the Neural Nets)
--pickle (for saving the encoders)
--matplotlib.pyplot (for plotting the scores)
+I used pandas to prepare the data and sklearn for the learning part. The following libraries are required:  
+-numpy  
+-pandas (for data manipulation)  
+-os  
+-sklearn (for the Neural Nets)  
+-pickle (for saving the encoders)  
+-matplotlib.pyplot (for plotting the scores)  
 
 If Python 3.1 or 2.7 or higher are used, no installations are required
 
