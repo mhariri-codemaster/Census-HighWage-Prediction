@@ -18,7 +18,7 @@ Feel free to try different models in the "DataModel.py" code.
 
 ## Directory
 
-The main directory contains the following files/folders:  
+The main directory should contain the following files/folders (make sure to add the train and test folders when you are using this code):  
 -train  
 --train.csv  
 -test  
@@ -36,7 +36,7 @@ The main directory contains the following files/folders:
 
 * **train:** It has the training file "train.csv" 
 * **test:** It has the test file "test.csv"
-* **src:** It has the Python code files "DataPrep.py" and "DataModels.py". Thew first is used to manipulate the raw data, encode it and create the modified new files for train or test in their respective folders while the second is used to train the models using the modified datasets. In addition, the files "DataPrepFunc.py", "DataPrepClasses.py" and "DataModelsFunc.py" contain all the user written dependencies for these functions. 
+* **src:** It has the Python code files "DataPrep.py" and "DataModels.py". The first is used to manipulate the raw data, encode it and create the modified new files for train or test in their respective folders while the second is used to train the models using the modified datasets. In addition, the files "DataPrepFunc.py", "DataPrepClasses.py" and "DataModelsFunc.py" contain all the user written dependencies for these functions. 
 * **README.md**: It is the readme file.
 * **run.sh**: It is used to run the code from shell terminal. To run, simply type ./run.sh.
 
