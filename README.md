@@ -18,19 +18,19 @@ Feel free to try different models in the "DataModel.py" code.
 
 ## Directory
 
-The main directory contains the following files/folders:
--train 
---train.csv 
--test 
---test.csv 
--src
---DataModels.py 
---DataModelsFunc.py 
---DataPrep.py 
---DataPrepFunc.py 
---DataPrepClasses.py 
--README.md
--run.sh (used to run on the terminal)
+The main directory contains the following files/folders: 
+-train  
+--train.csv  
+-test  
+--test.csv  
+-src 
+--DataModels.py  
+--DataModelsFunc.py  
+--DataPrep.py  
+--DataPrepFunc.py  
+--DataPrepClasses.py  
+-README.md 
+-run.sh (used to run on the terminal) 
 
 ### File.Folder Description
 
